@@ -1,0 +1,14 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is A0E7-0E20
+
+ Directory of D:\py_projects\password-manager-start
+
+18-12-2022  17:38    <DIR>          .
+18-12-2022  17:38    <DIR>          ..
+16-12-2022  22:40    <DIR>          .idea
+16-12-2022  13:37    <DIR>          Files
+03-09-2022  16:08            14,111 logo.png
+16-12-2022  13:30             5,971 main.py
+18-12-2022  17:38                 0 Test.txt
+               3 File(s)         20,082 bytes
+               4 Dir(s)  56,003,100,672 bytes free
